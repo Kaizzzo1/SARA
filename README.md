@@ -6,7 +6,7 @@ This tool is made for education purpose only, the author is not responsible for 
 ### Installation
 * Kali Linux, Ubuntu, Debian, Termux (proot-distro: Ubuntu)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh && python3 sara.py
+git clone https://github.com/Kaizzzo1/SARA.git && cd SARA && sudo bash install.sh && python3 sara.py
 ```
 ### Demo
 * Generate Custom Trojan (metasploit)
@@ -14,10 +14,3 @@ git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash insta
 [![asciicast](https://asciinema.org/a/604475.svg)](https://asciinema.org/a/604475)
 * Generate Custom Ransomware (File Locker)
 
-[![asciicast](https://asciinema.org/a/604490.svg)](https://asciinema.org/a/604490)
-
-### Author
-Instagram [@iqbalmh18](https://instagram.com/iqbalmh18)
-
-### Credit's
-Copyright © 2021 by [Termux Hackers ID](https://github.com/termuxhackers-id)
